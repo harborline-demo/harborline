@@ -10,4 +10,4 @@ Internal tooling for Harborline's shipment-tracking platform.
 
 ## Contributing
 
-Open a PR against `main`; one approval required before merge.
+Open a PR against `main`; 
